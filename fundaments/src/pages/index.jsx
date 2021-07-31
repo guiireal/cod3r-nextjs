@@ -1,3 +1,3 @@
 export default function Inicio() {
-  return "Início";
+  return <h1>Título</h1>;
 }
